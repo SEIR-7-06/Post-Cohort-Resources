@@ -7,22 +7,22 @@ There are so many areas of specialization and knowledge to study in this field, 
 ## Table of Contents:
 1. Success Strategies
     * [Succeeding Post Cohort](#-succeeding-post-cohort)
-    * [The Recipe for Success](📈-The-Recipe-for-Success)
+    * [The Recipe for Success](#-the-recipe-for-success)
 2. Daily Planning
-    * [Daily Study Plans Examples](🙌-Example-Daily-Study-Plans)
+    * [Daily Study Plans Examples](#-example-daily-study-plans)
 3. Resources
-    * [Class Resources](📓-Class-Resources)
-    * [Topics to Review](📖-Topics-to-Review)
+    * [Class Resources](#-class-resources)
+    * [Topics to Review](#-topics-to-review)
 4. Further Study
 
-    * [Interview Prep](🗺-Learning-Paths-and-Interview-Prep)
-    * [Data Structures & Algorithms](🤖-Algorithms-Data-Structures-and-Code-Challenges)
-    * [Project Ideas](🌊-Project-Ideas)
-    * [Books](📚-Free-Books)
+    * [Interview Prep](#-learning-paths-and-interview-prep)
+    * [Data Structures & Algorithms](#-computer-science-data-structures--algorithms-and-code-challenges)
+    * [Project Ideas](#-project-ideas)
+    * [Books](#-free-books)
 5. Community
-    * [Stack Overflow Developer Survey](📝-Stack-Overflow-Developer-Survey)
-    * [Open Source](Getting-involved-in-an-open-source)
-    * [Discord Servers](Discord-servers)
+    * [Stack Overflow Developer Survey](#-stack-overflow-developer-survey)
+    * [Open Source](#-getting-involved-in-open-source)
+    * [Discord Servers](#-discord-servers)
 
 
 # Success Strategies
@@ -222,7 +222,7 @@ These cost monies, which is not ideal, but are worth it:
 
 * The [Stack Overflow Developer Survey](https://insights.stackoverflow.com/survey/2021) is a hugely insightful dataset derived from a yearly survey that "examines all aspects of the developer experience from career satisfaction and job search to education and opinions on open source software"
 
-### Getting involved in an open source
+### 📬️ Getting involved in open source
 
 Open source projects are a great way to get experience, work in a collaborative environment, bulk up your portfolio and meet other nerds all at once.
 
@@ -231,7 +231,7 @@ Open source projects are a great way to get experience, work in a collaborative 
 * [Up for Grabs](https://up-for-grabs.net/#/) offers a curated list of repos that need help and are ideal for open source newbies
 * [Awesome Open Source Projects](https://awesomeopensource.com/projects/web-development) -- bigger DB of open source projects that you can filter by project type (link above takes you to all web dev open source projects).
 
-### Discord servers
+### 💻️ Discord servers
 
 [Discord](https://discord.com/) is a social chat app with robust voice and video chat features. You can make private 'servers' to chat with just your friends or join public servers to talk with other like minded individuals. Nerds love discord and so the programming communities are lit. You can chat in real time with other engineers while sharing code snippets and asking questions. You can also search for keywords in channels to read past discussions about specific topics.
 
