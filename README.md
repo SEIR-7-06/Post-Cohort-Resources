@@ -21,8 +21,8 @@ There are so many areas of specialization and knowledge to study in this field, 
     * [Books](#-free-books)
 5. Community
     * [Stack Overflow Developer Survey](#-stack-overflow-developer-survey)
-    * [Open Source](#-getting-involved-in-open-source)
-    * [Discord Servers](#-discord-servers)
+    * [Open Source](#%EF%B8%8F-getting-involved-in-open-source)
+    * [Discord Servers](#%EF%B8%8F-discord-servers)
 
 
 # Success Strategies
