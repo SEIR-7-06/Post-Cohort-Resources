@@ -6,7 +6,7 @@ There are so many areas of specialization and knowledge to study in this field, 
 
 ## Table of Contents:
 1. Success Strategies
-    * [Succeeding Post Cohort](#💫-Succeeding-Post-Cohort)
+    * [Succeeding Post Cohort](#-succeeding-post-cohort)
     * [The Recipe for Success](📈-The-Recipe-for-Success)
 2. Daily Planning
     * [Daily Study Plans Examples](🙌-Example-Daily-Study-Plans)
